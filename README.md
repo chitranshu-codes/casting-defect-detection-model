@@ -61,11 +61,11 @@ The model was optimized for **Recall** rather than just Accuracy.
 
 ### Sample Predictions
 
-!(./1.png)
+![](./1.png)
 
 ### Confusion Matrix
 
-!(./2.png)
+![](./2.png)
 
   * **Top Left (True Negative):** Correctly identified defective parts.
   * **Bottom Right (True Positive):** Correctly identified healthy parts.
